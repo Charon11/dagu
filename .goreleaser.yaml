@@ -30,11 +30,3 @@ changelog:
     exclude:
       - '^docs:'
       - '^test:'
-brews:
-  - tap:
-      owner: yohamta
-      name: homebrew-tap
-    folder: Formula
-    homepage: 'https://github.com/yohamta/dagu'
-    description: 'A No-code workflow executor that runs DAGs defined in a simple YAML format'
-    license: "GNU General Public License v3.0"
